@@ -1,1 +1,1 @@
-Creating a web app in python that helps the user predict stock prices, using an open source framework such as streamlit to build and share the webpage. Also using Yahoo Finance to pull reguired data and lastly using the phrophet model to forecast data.
+Creating a web app in python that helps the user predict stock prices, using an open source framework such as streamlit to build and share the webpage. Also using Yahoo Finance to pull reguired data and lastly using the prophet model to forecast data.
